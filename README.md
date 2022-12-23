@@ -1,4 +1,4 @@
 # Timothy-Dutki-Portfolio
 This is my portfolio website.
-Check it out live through the link below.
-https://timothydutki.github.io/Timothy-Dutki-Portfolio/
+\n Check it out live through the link below.
+\n https://timothydutki.github.io/Timothy-Dutki-Portfolio/
