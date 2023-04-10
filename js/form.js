@@ -13,7 +13,10 @@ $(function() {
 
 		// Serialize the form data.
 		var formData = $(form).serialize();
-
+		
+		// Add your email address to the formData object.
+		formData += '&email=timart575@gmail.com'; // Replace with your actual email address
+		
 		// Submit the form using AJAX.
 		$.ajax({
 			type: 'POST',
